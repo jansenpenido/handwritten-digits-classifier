@@ -1,0 +1,9 @@
+{
+  "name": "network",
+  "version": "1.0.0",
+  "dependencies": {
+    "jsonfile": "^2.4.0",
+    "mnist": "^1.0.5",
+    "synaptic": "^1.0.8"
+  }
+}
